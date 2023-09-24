@@ -1,0 +1,7 @@
+.scene {
+    margin: 0;
+}
+.scene canvas {
+    height: 100vh;
+    width: 100vw;
+}
